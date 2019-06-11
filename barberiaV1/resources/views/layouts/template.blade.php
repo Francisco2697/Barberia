@@ -115,7 +115,7 @@
                 </li>
 
                 <li class="nav-item active">
-                    <a class="nav-link" href="{{route('products.index')}}">
+                    <a class="nav-link" href="">
                         <i class="fas fa-fw fa-tachometer-alt"></i>
                         <span>Productos</span>
                     </a>

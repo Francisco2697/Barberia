@@ -1,5 +1,8 @@
 @extends('layouts.template')
-@section('title-page') Panel @stop
+@section('title-page')
+    Panel
+
+@stop
 
 @section('content')
     <!-- Breadcrumbs-->
